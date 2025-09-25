@@ -15,12 +15,7 @@ Este script demonstra o efeito da quantização em imagens usando Python, Pillow
         python3 -m venv venv
         source venv/bin/activate
         ```
-
-2.  **Instale as dependências:**
-    ```bash
-    pip install -r ../requirements.txt
-    ```
-
+    
 ### Como Usar
 
 Para executar o script, use o comando:
