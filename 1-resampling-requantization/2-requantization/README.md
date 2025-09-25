@@ -10,6 +10,7 @@ Este script demonstra o efeito da quantização em imagens usando Python, Pillow
         python -m venv venv
         .\venv\Scripts\activate
         ```
+
     * **macOS / Linux:**
         ```bash
         python3 -m venv venv
