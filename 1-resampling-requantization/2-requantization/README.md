@@ -4,7 +4,7 @@ Este script demonstra o efeito da quantização em imagens usando Python, Pillow
 
 ### Instalação
 
-1.  **(Recomendado) Crie e ative um ambiente virtual:**
+ **(Recomendado) Crie e ative um ambiente virtual:**
     * **Windows:**
         ```powershell
         python -m venv venv
