@@ -1,10 +1,10 @@
-# Projeto de Quantização de Imagem
+# Image Resampling Project
 
-Este script demonstra o efeito da quantização em imagens usando Python, Pillow e NumPy.
+This script demonstrates the effect of image resampling using Python and Pillow.
 
-### Instalação
+### Installation
 
-1.  **(Recomendado) Crie e ative um ambiente virtual:**
+1.  **(Recommended) Create and activate a virtual environment:**
     * **Windows:**
         ```powershell
         python -m venv venv
@@ -16,13 +16,13 @@ Este script demonstra o efeito da quantização em imagens usando Python, Pillow
         source venv/bin/activate
         ```
 
-2.  **Instale as dependências:**
+2.  **Install the dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
 
-### Como Usar
+### Usage
 
-Para executar o script, use o comando:
+To run the script, use the command:
 ```bash
 python resampling.py
