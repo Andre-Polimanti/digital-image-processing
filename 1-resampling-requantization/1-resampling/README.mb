@@ -2,7 +2,7 @@
 
 This script demonstrates the effect of image resampling using Python and Pillow.
 
-### Installation
+## Installation
 
 1.  **(Recommended) Create and activate a virtual environment:**
     * **Windows:**
@@ -21,7 +21,7 @@ This script demonstrates the effect of image resampling using Python and Pillow.
     pip install -r requirements.txt
     ```
 
-### Usage
+## Usage
 
 To run the script, use the command:
 ```bash
